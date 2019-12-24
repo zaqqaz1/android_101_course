@@ -11,7 +11,9 @@ val label:String="Interscope"
 
 fun main() {
 
+//below is my favourite song
     println("My Favourite song is "+favouriteSong)
+//below are the artists who performed the song
     println("The song is by "+artist1+" and "+artist2)
     println("Song genre is "+genre)
     println("The songs duration is "+duration)
